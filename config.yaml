@@ -1,0 +1,72 @@
+cookie:
+  expiry_days: 30
+  key: tripwala_secret_key_123
+  name: tripwala_cookie
+credentials:
+  usernames:
+    adiii777:
+      email: adi07@gmail.com
+      first_name: Aditya
+      last_name: Kumbhar
+      logged_in: false
+      password: Aditya@123$
+      password_hint: a
+      roles: null
+    admin:
+      email: admin@tripwala.com
+      name: Admin Owner
+      password: $2b$12$RAUOnhZQrwRWXqRAeDsLq.DshtSAXCIYpHSZ6exAalUPULPpArye2
+    anant_01:
+      email: harsh03493@gmail.com
+      first_name: Anant
+      last_name: Thorat
+      logged_in: false
+      password: $2b$12$7RYIghKL.ZKYCTvUtizCcOmeNGiC7q2oahqk1i42oPw/7wZKeEKuC
+      roles: null
+    guest:
+      email: guest@tripwala.com
+      name: Guest User
+      password: $2b$12$xuHChQuq1T3G/k5KCdJ70.k3QfUzMRvhPbzt9fJVoA.ESaojw/UgG
+    hp8:
+      email: harsh8@gmail.com
+      first_name: Harsh
+      last_name: Patil
+      logged_in: false
+      password: $2b$12$ivoZPukkcBU3Gm4CRgZgHuOSsScyn7ZquMpx4v762944op7ZhTrly
+      password_hint: h
+      roles: null
+    manasi1:
+      email: manasi12@gmail.com
+      first_name: manasi
+      last_name: Suryawanshi
+      logged_in: false
+      password: $2b$12$sQG.M5sFJWJTTo8pv80RAeiWl/hyd61OnO6D3.9LyQUZeHCGptabC
+      password_hint: m
+      roles: null
+    shree7:
+      email: shrewans67@gmail.com
+      first_name: Shrewans
+      last_name: Thorat
+      logged_in: false
+      password: $2b$12$0mdxzkqTcm52CJ9fHsMAqeDDU1HZsDIH49TOiixpj7j6.dkOoFDRW
+      password_hint: C
+      roles: null
+    shreyastiger:
+      email: shrey123@gmail.com
+      first_name: Shreyas
+      last_name: Waghire
+      logged_in: false
+      password: $2b$12$YKYsJvX0yjCceRfmfiE06Ou7XKqExsDdmWSdRGnT92kmc03Sgge76
+      password_hint: T
+      roles: null
+    shrihari01:
+      email: shrihari@gmail.com
+      first_name: Shrihari
+      last_name: Khatawkar
+      logged_in: false
+      password: $2b$12$dI2trwEk1xIwbNBnh0a17OAgu9ypPHjpOMmAYzv8FRdDTjhtPmIDS
+      password_hint: S
+      roles: null
+preauthorized:
+  emails:
+  - guest@tripwala.com
